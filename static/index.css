@@ -1,0 +1,18 @@
+.a {
+  background-color: #eee;
+}
+.b {
+  background-color: #9fe;
+}
+.c {
+  background-color: #239;
+}
+.d {
+  background-color: #092;
+}
+div[class] {
+  min-height: 40px;
+  min-width: 100%;
+  outline: 10px solid red;
+  margin-bottom: 20px;
+}
